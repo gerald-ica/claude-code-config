@@ -1,0 +1,11 @@
+{
+  "name": "hooks",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^25.0.9"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
